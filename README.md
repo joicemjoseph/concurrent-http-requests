@@ -1,4 +1,4 @@
-# ddos
+# Concurrent HTTP Requests. 
 
 - ddos style requesting.
 - sends http requests concurrently.
