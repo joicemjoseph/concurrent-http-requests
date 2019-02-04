@@ -1,6 +1,6 @@
-# Concurrent HTTP Requests. 
+# __[Concurrent HTTP Requests.](https://git.j01ce.in/joice/ddos)__
 
-- ddos style requesting.
+- Makes requests concurrently.
 - sends http requests concurrently.
 - --url -> url to send request to
 - --count -> number of concurrent requests to send.
